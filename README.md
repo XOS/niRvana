@@ -1,4 +1,4 @@
-#轻拟物Wordpress主题
+# 轻拟物Wordpress主题
 > 该主题破解版未经本人测试，演示站为正版主题。
 * 文件夹 niRvana，解密版，未破解。
 * 文件夹 niRvana-Original，官方原版。
